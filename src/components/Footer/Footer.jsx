@@ -46,9 +46,14 @@ function Footer() {
                                     </a>
                                 </li>
                                 <li>
-                                    <Link to="/" className="hover:underline">
+                                    <a
+                                        href="https://discord.com/invite/MB5MRUdXXa"
+                                        className="hover:underline"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
                                         Discord
-                                    </Link>
+                                    </a>
                                 </li>
                             </ul>
                         </div>
