@@ -13,7 +13,7 @@ export default function Home() {
                         </h2>
 
                         <a
-                            href="https://discord.com/invite/MB5MRUdXXa"
+                            href="https://discord.gg/nnGZsGTUCw"
                             className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
                             target="_blank"
                             rel="noreferrer"
